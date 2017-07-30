@@ -93,6 +93,8 @@ source ~/dotfiles/aliases.zsh
 # Functions
 source ~/dotfiles/functions.sh
 
+# Environment exports
+source ~/dotfiles/env.secrets.zsh
 
 # Pure prompt
 autoload -U promptinit; promptinit
