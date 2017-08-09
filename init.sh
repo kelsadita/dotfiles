@@ -12,3 +12,6 @@ ln -s -f ~/dotfiles/zshrc .zshrc
 
 # Installing oh-my-tmux and linking tmux configurations
 ln -s -f ~/dotfiles/vimrc .vimrc
+
+# Installing sdkman
+curl -s "https://get.sdkman.io" | bash
